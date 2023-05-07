@@ -1,4 +1,4 @@
-﻿# JBU-Cinemas Ecommerce web application
+﻿# PPA-Cinemas Ecommerce web application
 
 The Aim of the project is to improve my coding skills and understand the end-to-end implementation of ASP.NET MVC core web application (.NET 6) for a complete E-commerce solution with online payment checkout implementation. This application have admin and customer menu's. 
 As data storage, I'm using SQL database and Entity Framework to interact with data. I'm also learning how to update database schema using Entity Framework migrations, how to add data to the database, get data from the database, update data in the database and also delete data from the database.
